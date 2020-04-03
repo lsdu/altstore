@@ -1,11 +1,11 @@
 {
   "name": "Clip",
   "identifier": "app.custom.Clip",
-  "sourceURL": "https://cdn.altstore.io/file/altstore/apps.json",
+  "sourceURL": "https://lsdu.github.io/repo/apps.json",
   "apps": [
     {
       "name": "Clip",
-      "bundleIdentifier": "com.rileytestut.Clip.Beta",
+      "bundleIdentifier": "app.custom.Clip",
       "subtitle": "Manage your clipboard history with ease.",
       "developerName": "Riley Testut",
       "version": "1.0b",
