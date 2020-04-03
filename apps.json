@@ -1,44 +1,30 @@
 {
-  "name": "Clip",
-  "identifier": "app.custom.Clip",
+  "name": "Tweak Repo",
+  "identifier": "com.lsdu.repo",
   "sourceURL": "https://lsdu.github.io/repo/apps.json",
   "apps": [
     {
-      "name": "Clip",
-      "bundleIdentifier": "app.custom.Clip",
-      "subtitle": "Manage your clipboard history with ease.",
-      "developerName": "Riley Testut",
-      "version": "1.0b",
-      "versionDate": "2019-01-24T18:20:00-08:00",
-      "versionDescription": "• Disables notification vibration when sound is disabled for notifications.\n\nAssuming all goes well, this should be the final beta before the public launch! Please report any last minute bugs you find to support@altstore.io.",
-      "downloadURL": "https://f000.backblazeb2.com/file/altstore/clip-beta.ipa",
-      "localizedDescription": "Clip is a simple clipboard manager for iOS. \n\nUnlike other clipboard managers, Clip can continue monitoring your clipboard while in the background. No longer do you need to remember to manually open or share to an app to save your clipboard; just copy and paste as you would normally do, and Clip will have your back.\n\nIn addition to background monitoring, Clip also has these features:\n\n• Save text, URLs, and images copied to the clipboard.\n• Copy, delete, or share any clippings saved to Clip.\n• Customizable history limit.\n\nDownload Clip today, and never worry about losing your clipboard again!",
-      "iconURL": "https://user-images.githubusercontent.com/705880/63391981-5326f800-c37a-11e9-99d8-760fd06bb601.png",
+      "name": "Sponkify",
+      "bundleIdentifier": "com.lsdu.Sponkify",
+      "subtitle": "Like Spotify, but Sponk",
+      "developerName": "Julio Verne",
+      "version": "8.5",
+      "versionDate": "2020-01-24T18:20:00-08:00",
+      "versionDescription": "Now you can be Sponky with Spotify. Maximum Sponk, 10x last version, big yes, ultra approve.",
+      "downloadURL": "https://ipaspot.app/files/spotify++.ipa",
+      "localizedDescription": "Sponk. That's about it. Enjoy the Sponking",
+      "iconURL": "https://ipaspot.app/img/spotify++.png",
       "tintColor": "EC008C",
       "size": 462771,
-      "beta": true,
+      "beta": false,
       "permissions": [
         {
           "type": "background-audio",
           "usageDescription": "Allows Clip to continuously monitor your clipboard in the background."
         }
-      ],
-      "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/63391950-34286600-c37a-11e9-965f-832efe3da507.png",
-        "https://user-images.githubusercontent.com/705880/70830209-8e738980-1da4-11ea-8b3b-6e5fbc78adff.png"
       ]
     }
   ],
   "news": [
-    {
-      "title": "Clip is here!",
-      "identifier": "clip-coming-soon",
-      "caption": "A clipboard manager that can run in the background. Beta available now for everyone.",
-      "tintColor": "EC008C",
-      "url": "https://twitter.com/altstoreio/status/1205597959699582977",
-      "imageURL": "https://user-images.githubusercontent.com/705880/65606598-04afdf00-df60-11e9-8f93-af6345d39557.png",
-      "date": "2019-12-16",
-      "notify": false
-    }
   ]
 }
